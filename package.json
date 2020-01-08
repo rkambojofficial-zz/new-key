@@ -1,0 +1,19 @@
+{
+    "name": "new-key",
+    "version": "1.0.0",
+    "description": "A simple random and unique key generator.",
+    "main": "index.js",
+    "scripts": {
+        "test": "nodemon test.js"
+    },
+    "author": "Ruby Kamboj",
+    "keywords": [
+        "id",
+        "key",
+        "newKey",
+        "new-key",
+        "id-generator",
+        "key-generator"
+    ],
+    "license": "MIT"
+}
